@@ -2,9 +2,13 @@
 
  Interesse-me pela tecnologia através do curso The Schools Challange que realizei durante meu ensino médio, que tinha como objetivo criar um desing  de um aplicativo que utilizassem algumas ODS(Objetivos de Desenvolvimento Sustentável), como forma de ajudar através da tecnologia.
 
-Estudando...
+Ferramentas e  habilidades:
 
-Back-end
-
-![mysql](https://user-images.githubusercontent.com/98967783/174158689-1042978a-82c2-47bf-b609-76087f171692.png)       ![typescript](https://user-images.githubusercontent.com/98967783/174158719-d24422fd-5d90-4afc-8775-37ef6083b465.png)
-
+![mysql](https://user-images.githubusercontent.com/98967783/174158689-1042978a-82c2-47bf-b609-76087f171692.png)       
+![typescript](https://user-images.githubusercontent.com/98967783/174158719-d24422fd-5d90-4afc-8775-37ef6083b465.png)
+![html](https://user-images.githubusercontent.com/98967783/174184250-081a9e5e-6136-4c87-880b-48e021dc200a.png)
+![css](https://user-images.githubusercontent.com/98967783/174184412-501befd3-08d8-48ed-9884-35b196c3cd6f.png)
+![visual-studio-code](https://user-images.githubusercontent.com/98967783/174184490-ab887ba3-0e60-475d-90a5-78e42c5ce159.png)![javascript](https://user-images.githubusercontent.com/98967783/174184704-13af6bca-3f3a-4c3e-8027-2029069ca24b.png)
+![nodejs](https://user-images.githubusercontent.com/98967783/174184534-9727d9d9-fac9-412e-8ceb-652c72028300.png)
+![react](https://user-images.githubusercontent.com/98967783/174184540-125333d2-f550-413f-89ff-db5068a8eb35.png)
+![postman](https://user-images.githubusercontent.com/98967783/174185123-5320be02-087c-4b0e-a92e-a156376aadd9.png)
