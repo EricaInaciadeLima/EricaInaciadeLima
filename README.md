@@ -4,6 +4,6 @@
 
 Estudando...
 
-Front-end
+Back-enn
 
-Back-end
+![mysql](https://user-images.githubusercontent.com/98967783/174158689-1042978a-82c2-47bf-b609-76087f171692.png)       ![typescript](https://user-images.githubusercontent.com/98967783/174158719-d24422fd-5d90-4afc-8775-37ef6083b465.png)
