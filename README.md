@@ -1,7 +1,17 @@
 ### Olá, sou a Erica Inacia de Lima!👋😊
 
- Interesse-me pela tecnologia através do curso The Schools Challange que realizei durante meu ensino médio, cujo objetivo era criar um desing de um aplicativo que utilizassem algumas ODS(Objetivos de Desenvolvimento Sustentável), para ajudar através da tecnologia.
- 
+![Erica Inacia de Lima's GitHub stats](https://github-readme-stats.vercel.app/api?username=EricaInaciadeLima&count_private=true&show_icons=true&theme=radical)
+
+*  Atualmente  estou cursando Web Full Stack da Labenu
+*  Link do repositório com todos os projetos realizados através do curso. https://github.com/future4code/silveira-Erica-Lima
+*  Para contatos:
+
+E-mail<br>
+ericainacia27@gmail.com <br>
+
+Linkdin<br>
+https://www.linkedin.com/in/erica-inacia-de-lima-82b7b7206/
+
 Ferramentas e  habilidades:
 
 ![mysql](https://user-images.githubusercontent.com/98967783/174158689-1042978a-82c2-47bf-b609-76087f171692.png)       
