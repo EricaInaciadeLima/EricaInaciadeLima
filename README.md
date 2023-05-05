@@ -6,13 +6,10 @@
 
 *  Realizei o bootcamp da Labebu Web Full Stack.
 *  Link do repositório com todos os projetos realizados através do curso. https://github.com/future4code/silveira-Erica-Lima
-*  Para contatos:
 
-E-mail<br>
-ericainacia27@gmail.com <br>
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erica-inacia-de-lima-82b7b7206/)](https://www.linkedin.com/in/erica-inacia-de-lima-82b7b7206/) 
+[![Gmail Badge](https://img.shields.io/badge/-ericainacia27@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ericainacia27@gmail.com)](mailto:ericainacia27@gmail.com)
 
-Linkdin<br>
-https://www.linkedin.com/in/erica-inacia-de-lima-82b7b7206/
 
 Ferramentas e  habilidades:
 
