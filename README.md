@@ -2,6 +2,8 @@
 
 ![Erica Inacia de Lima's GitHub stats](https://github-readme-stats.vercel.app/api?username=EricaInaciadeLima&count_private=true&show_icons=true&theme=radical)
 
+
+
 *  Realizei o bootcamp da Labebu Web Full Stack.
 *  Link do repositório com todos os projetos realizados através do curso. https://github.com/future4code/silveira-Erica-Lima
 *  Para contatos:
