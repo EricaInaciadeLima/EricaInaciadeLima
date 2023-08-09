@@ -1,43 +1,30 @@
-<h1 align="center">
-  Olá, eu sou a Erica Inacia de Lima! 👋😊
-</h1>
+# Erica Inacia de Lima
 
-<p align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EricaInaciadeLima&count_private=true&show_icons=true&theme=radical"  alt="Erica Inacia de Lima's GitHub stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricaInaciadeLima&layout=compact&theme=radical" /> <br><br>
-  
+## Sobre Mim 👋😊
 
-</p>
+Olá, sou a Erica Inacia de Lima! Bem-vindo ao meu perfil do GitHub. Aqui você encontrará informações sobre os meus projetos, habilidades e formas de entrar em contato comigo.
 
-<p align="center">
-  Realizei o bootcamp da Labebu Web Full Stack.
-</p>
+## Estatísticas
 
-<p align="center">
-  Aqui está o link do repositório com todos os projetos realizados através do curso: <a href="https://github.com/future4code/silveira-Erica-Lima">Repositório - Silveira Erica Lima</a>
-</p>
+![Minhas estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=EricaInaciadeLima&count_private=true&show_icons=true&theme=radical)
+![Minhas principais linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=EricaInaciadeLima&layout=compact&theme=radical)
 
-<p align="center">
-  Ferramentas e Habilidades:
-</p>
- <div align="center">  
-  
+## Formação
 
-  
- [![Minhas habilidades](https://skills.thijs.gg/icons?i=html,css,js,react,typescript,figma,mysql,java,aws,postman,vscode,spring)](https://skills.thijs.gg)
-   <img src="https://user-images.githubusercontent.com/98967783/174184534-9727d9d9-fac9-412e-8ceb-652c72028300.png" width="50" alt="nodejs">
-</div>
+Tenho o orgulho de ter completado o bootcamp da Labebu Web Full Stack. Se quiser conferir os projetos que desenvolvi durante o curso, você pode acessar o repositório [aqui](https://github.com/future4code/silveira-Erica-Lima) e também pelo Instituto PROA [aqui](https://github.com/NutriAcess?tab=repositories).
 
+## Habilidades e Ferramentas
 
-<p align="center">
-  Entre em contato:
-</p>
+Aqui estão algumas das habilidades e ferramentas que possuo:
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/erica-inacia-82b7b7206/">
-    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erica-inacia-82b7b7206/" alt="Linkedin Badge">
-  </a>
-  <a href="mailto:ericainacia27@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ericainacia27@gmail.com" alt="Gmail Badge">
-  </a>
-</p>
+[![Minhas habilidades](https://skills.thijs.gg/icons?i=html,css,js,react,typescript,figma,mysql,java,aws,postman,vscode,spring,js)](https://skills.thijs.gg)
+![Node.js](https://user-images.githubusercontent.com/98967783/174184534-9727d9d9-fac9-412e-8ceb-652c72028300.png)
+
+## Entre em Contato
+
+Você pode me encontrar online nos seguintes canais:
+
+- [LinkedIn](https://www.linkedin.com/in/erica-inacia-82b7b7206/)
+- Email: ericainacia27@gmail.com
+
+Sinta-se à vontade para entrar em contato comigo para discutir projetos, colaborações ou apenas para uma conversa. Estou ansiosa para ouvir de você! 📬🌟
