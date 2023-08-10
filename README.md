@@ -1,10 +1,11 @@
+<div aling = "center">
+  
 # Erica Inacia de Lima
 
 ## Sobre Mim 👋😊
 
 Olá, sou a Erica Inacia de Lima! Bem-vindo ao meu perfil do GitHub. Aqui você encontrará informações sobre os meus projetos, habilidades e formas de entrar em contato comigo.
 
-## Estatísticas
 
 ![Minhas estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=EricaInaciadeLima&count_private=true&show_icons=true&theme=radical)
 ![Minhas principais linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=EricaInaciadeLima&layout=compact&theme=radical)
@@ -28,3 +29,4 @@ Você pode me encontrar online nos seguintes canais:
 - Email: ericainacia27@gmail.com
 
 Sinta-se à vontade para entrar em contato comigo para discutir projetos, colaborações ou apenas para uma conversa. Estou ansiosa para ouvir de você! 📬🌟
+</div>
