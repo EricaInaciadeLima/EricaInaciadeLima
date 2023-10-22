@@ -12,7 +12,7 @@ Olá, sou a Erica Inacia de Lima! Bem-vindo ao meu perfil do GitHub. Aqui você 
 
 ## Formação
 
-Tenho orgulho de ter concluído o bootcamp da Labenu Web Full Stack e o curso PROFISSÃO do Instituto PROA. Se quiser conferir os projetos que desenvolvi durante o curso, você pode acessar o repositório [aqui](https://github.com/future4code/silveira-Erica-Lima) e também pelo Instituto PROA [aqui](https://github.com/NutriAcess?tab=repositories).
+Tenho orgulho de ter concluído o bootcamp da Labenu Web Full Stack e o curso PROFISSÃO do Instituto PROA. Se quiser conferir os projetos que desenvolvi durante o curso, você pode acessar o repositório [aqui](https://github.com/future4code/silveira-Erica-Lima) e também pelo Instituto PROA o projeto NutriAcess [aqui](https://github.com/NutriAcess?tab=repositories).
 ## Habilidades e Ferramentas
 
 Aqui estão algumas das habilidades e ferramentas que possuo:
