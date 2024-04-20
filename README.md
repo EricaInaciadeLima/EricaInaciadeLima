@@ -17,7 +17,7 @@ Tenho orgulho de ter concluído o bootcamp da Labenu Web Full Stack e o curso PR
 
 Aqui estão algumas das habilidades e ferramentas que possuo:
 
-[![Minhas habilidades](https://skills.thijs.gg/icons?i=html,css,js,react,typescript,figma,mysql,java,aws,postman,vscode,spring,js)](https://skills.thijs.gg)
+[![Minhas habilidades](https://skills.thijs.gg/icons?i=html,css,js,react,typescript,figma,mysql,java,postman,vscode,spring,js)](https://skills.thijs.gg)
 ![Node.js](https://user-images.githubusercontent.com/98967783/174184534-9727d9d9-fac9-412e-8ceb-652c72028300.png)
 
 ## Entre em Contato
